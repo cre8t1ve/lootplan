@@ -1,0 +1,10 @@
+[package]
+name = "cre8t1ve/lootplan"
+description = "dogwarrior24's LootPlan module"
+version = "0.6.0"
+license = "MIT"
+authors = ["dogwarrior24"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+homepage = "https://devforum.roblox.com/t/lootplan-random-loot-generation-made-easy/463702"
+repository = "https://github.com/cre8t1ve/lootplan"
